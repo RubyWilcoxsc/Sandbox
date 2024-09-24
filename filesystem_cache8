@@ -1,0 +1,171 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1726616815
+::res://art/::1726616606
+icon.svg::CompressedTexture2D::2180799973754755163::1726616606::1726616818::1::::<><>::
+::res://art/sprites/::1726616606
+::res://art/sprites/characters/::1726616606
+player.png::CompressedTexture2D::8799075754751137423::1726616606::1726616819::1::::<><>::
+README.txt::TextFile::-1::1726616606::0::1::::<><>::
+skeleton.png::CompressedTexture2D::1478093321185423476::1726616606::1726616819::1::::<><>::
+skeleton_swordless.png::CompressedTexture2D::5922080283071808199::1726616606::1726616819::1::::<><>::
+slime.png::CompressedTexture2D::8642402636797064955::1726616606::1726616819::1::::<><>::
+::res://art/sprites/objects/::1726616606
+chest_01.png::CompressedTexture2D::4275500738229925675::1726616606::1726616818::1::::<><>::
+chest_02.png::CompressedTexture2D::6388530196462665730::1726616606::1726616818::1::::<><>::
+objects.png::CompressedTexture2D::1646378830952061646::1726616606::1726616819::1::::<><>::
+rock_in_water-sheet.png::CompressedTexture2D::6533135464772265758::1726616606::1726616819::1::::<><>::
+rock_in_water_01-sheet.png::CompressedTexture2D::3228674828325654152::1726616606::1726616819::1::::<><>::
+rock_in_water_01.png::CompressedTexture2D::638688057110995169::1726616606::1726616819::1::::<><>::
+rock_in_water_02.png::CompressedTexture2D::5950620045776361927::1726616606::1726616819::1::::<><>::
+rock_in_water_03.png::CompressedTexture2D::7382729804823833::1726616606::1726616819::1::::<><>::
+rock_in_water_04.png::CompressedTexture2D::3824123175357670991::1726616606::1726616819::1::::<><>::
+rock_in_water_05.png::CompressedTexture2D::7985814395486075180::1726616606::1726616819::1::::<><>::
+rock_in_water_06.png::CompressedTexture2D::6561728017657701995::1726616606::1726616819::1::::<><>::
+::res://art/sprites/particles/::1726616606
+dust_particles_01.png::CompressedTexture2D::6655301661710483520::1726616606::1726616819::1::::<><>::
+::res://art/sprites/tilesets/::1726616606
+decor_8x8.png::CompressedTexture2D::8044913655750233215::1726616606::1726616818::1::::<><>::
+decor_16x16.png::CompressedTexture2D::5220224705987585534::1726616606::1726616818::1::::<><>::
+fences.png::CompressedTexture2D::6715493625510761469::1726616606::1726616818::1::::<><>::
+grass.png::CompressedTexture2D::1954410703220262738::1726616606::1726616818::1::::<><>::
+plains.png::CompressedTexture2D::2080347544734216022::1726616606::1726616818::1::::<><>::
+water1.png::CompressedTexture2D::5098099083050466612::1726616606::1726616818::1::::<><>::
+water2.png::CompressedTexture2D::7549090792310951082::1726616606::1726616818::1::::<><>::
+water3.png::CompressedTexture2D::6862866375567381917::1726616606::1726616818::1::::<><>::
+water4.png::CompressedTexture2D::1759269545219646439::1726616606::1726616818::1::::<><>::
+water5.png::CompressedTexture2D::7492562386677665380::1726616606::1726616818::1::::<><>::
+water6.png::CompressedTexture2D::5839832902308352165::1726616606::1726616818::1::::<><>::
+water-sheet.png::CompressedTexture2D::7737564872668501703::1726616606::1726616818::1::::<><>::
+water_decorations.png::CompressedTexture2D::1018491163835097962::1726616606::1726616818::1::::<><>::
+water_lillies.png::CompressedTexture2D::2605507157371675910::1726616606::1726616818::1::::<><>::
+::res://art/sprites/tilesets/floors/::1726616606
+carpet.png::CompressedTexture2D::1284541609288290290::1726616606::1726616819::1::::<><>::
+flooring.png::CompressedTexture2D::6408183679166533894::1726616606::1726616819::1::::<><>::
+wooden.png::CompressedTexture2D::952404714566130623::1726616606::1726616819::1::::<><>::
+::res://art/sprites/tilesets/walls/::1726616606
+walls.png::CompressedTexture2D::519095626707186190::1726616606::1726616818::1::::<><>::
+wooden_door.png::CompressedTexture2D::3193265269237674170::1726616606::1726616818::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::7391527374948823281::1726616606::1726616818::1::::<><>::
+::res://Sandbox game/::1726616606
+::res://Sandbox game/logs/::1726616606
+godot2024-09-11T08.50.56.log::TextFile::-1::1726616606::0::1::::<><>::
+godot2024-09-11T08.51.47.log::TextFile::-1::1726616606::0::1::::<><>::
+godot2024-09-11T08.52.22.log::TextFile::-1::1726616606::0::1::::<><>::
+godot2024-09-11T09.00.14.log::TextFile::-1::1726616606::0::1::::<><>::
+godot.log::TextFile::-1::1726616606::0::1::::<><>::
+::res://Sandbox game/shader_cache/::1726616606
+::res://Sandbox game/shader_cache/BestFitNormalShaderRD/::1726616606
+::res://Sandbox game/shader_cache/BestFitNormalShaderRD/da50b1ee325fa09e8a9d2278e44bfbc4e716c11aa4475ca5323315d9d3e84d70/::1726616606
+::res://Sandbox game/shader_cache/BlitShaderRD/::1726616606
+::res://Sandbox game/shader_cache/BlitShaderRD/09b63e5347ccb6779fd79e54b093cfc915ec80510efa1f613c9ada9ff2e0f70d/::1726616606
+::res://Sandbox game/shader_cache/BokehDofShaderRD/::1726616606
+::res://Sandbox game/shader_cache/BokehDofShaderRD/39f32133b5111c9c24ab7cd9b202ca96bb3aeb73e0c73ebd7b7a5dae08cb759f/::1726616606
+::res://Sandbox game/shader_cache/CanvasOcclusionShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CanvasOcclusionShaderRD/42f2245b35206bcace1cda9e39e9282519e9967978ba6d5956472809525b1150/::1726616606
+::res://Sandbox game/shader_cache/CanvasSdfShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CanvasSdfShaderRD/f65579ae334cdfb6901aee2527afd18ed626d1067a35c91f12fb632b45ce7f21/::1726616606
+::res://Sandbox game/shader_cache/CanvasShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CanvasShaderRD/165f6964cfc63fea91c4221f04e7b8a54b5dc39d76b5a57aed5f99b20050b148/::1726616606
+::res://Sandbox game/shader_cache/ClusterDebugShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ClusterDebugShaderRD/2546937b6acfcec18164bde1022dd572463c5dc6a8dfb2db860e93b1f8cb6cf1/::1726616606
+::res://Sandbox game/shader_cache/ClusterRenderShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ClusterRenderShaderRD/e138dfa55627ca222eda3daa0739d50014770edfb2a8fbab0fa51e2130af04e8/::1726616606
+::res://Sandbox game/shader_cache/ClusterStoreShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ClusterStoreShaderRD/44efe54fdfa0811178ad2a7a0207ebc98532c6ae316489503cdc7c5c843a564e/::1726616606
+::res://Sandbox game/shader_cache/CopyShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CopyShaderRD/4a43f34799f84bc5a387aff816d36330149d91299172af9be2d3ab05cc0c4e9d/::1726616606
+::res://Sandbox game/shader_cache/CopyToFbShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CopyToFbShaderRD/8668028c5ceed89276611359329de4a0f5d40702546caecc31456f63f6f9ffe8/::1726616606
+::res://Sandbox game/shader_cache/CubemapDownsamplerShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CubemapDownsamplerShaderRD/6376d8aae8d25aa5fed14d9e78a76a69c5566f021773d2b38defa77a573b20f1/::1726616606
+::res://Sandbox game/shader_cache/CubemapFilterShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CubemapFilterShaderRD/96fd6d20ed52761601cf4665fa909c5a27f13aeaa25940cf720f4e331158ef8e/::1726616606
+::res://Sandbox game/shader_cache/CubemapRoughnessShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CubemapRoughnessShaderRD/1d72ea29a087908b2262137858ecb047ac60acf75d2e625661f01be4ce0d3ce2/::1726616606
+::res://Sandbox game/shader_cache/CubeToDpShaderRD/::1726616606
+::res://Sandbox game/shader_cache/CubeToDpShaderRD/e3db5adc31b15e80112f4d7497dc8563c39b7d64675a53dcce7f9511c5ca9f80/::1726616606
+::res://Sandbox game/shader_cache/FsrUpscaleShaderRD/::1726616606
+::res://Sandbox game/shader_cache/FsrUpscaleShaderRD/362fc0b19d06cf68dc6f6f2d99e1f9ccfd8afaef2a65e38a931df5dd9e183d7d/::1726616606
+::res://Sandbox game/shader_cache/GiShaderRD/::1726616606
+::res://Sandbox game/shader_cache/GiShaderRD/2b51ba5b3e4e6be7fc223f7517a8a8b80c61234f3fbd4ffa229da05d747f020a/::1726616606
+::res://Sandbox game/shader_cache/LuminanceReduceShaderRD/::1726616606
+::res://Sandbox game/shader_cache/LuminanceReduceShaderRD/2687da76c0ac04fe197e7093fd065958200b5a2e8e378e0f61c445212a1a0ac4/::1726616606
+::res://Sandbox game/shader_cache/MotionVectorsShaderRD/::1726616606
+::res://Sandbox game/shader_cache/MotionVectorsShaderRD/cbf3cbdcba0d0a2026c9fbf248556f1acd11beacc38a2e8c5ce7009ee49a1560/::1726616606
+::res://Sandbox game/shader_cache/ParticlesCopyShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ParticlesCopyShaderRD/69566a7b0235d75ec40f504cd5555856aace22b5273899269166fde57287d26e/::1726616606
+::res://Sandbox game/shader_cache/ParticlesShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ParticlesShaderRD/47fcf57848349fdf54197e5c1f64750a69c8d54787d3509ade4781c9faa31654/::1726616606
+::res://Sandbox game/shader_cache/ResolveShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ResolveShaderRD/4eed9a584e94b3db5e08b3dd178112267127e5cb55e97790e3791fff9eb617f7/::1726616606
+::res://Sandbox game/shader_cache/SceneForwardClusteredShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SceneForwardClusteredShaderRD/29edc2f36233c2e08b9662507bec9ae15ecd3ff18670dd6a9d9e3c22bb80d2b9/::1726616606
+::res://Sandbox game/shader_cache/ScreenSpaceReflectionFilterShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ScreenSpaceReflectionFilterShaderRD/dbd56507c7ba6e4548ad94d4267e97184ea703036185204db88001c82b622120/::1726616606
+::res://Sandbox game/shader_cache/ScreenSpaceReflectionScaleShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ScreenSpaceReflectionScaleShaderRD/e5b92b2248f95dfc9534e9d5ec71a9d1fedfe58dd8fbbb2e903d8606c1ed8e0c/::1726616606
+::res://Sandbox game/shader_cache/ScreenSpaceReflectionShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ScreenSpaceReflectionShaderRD/722d4571bebbe24c59b13360d89825ac27099da739a27f42e20a004e5e92da73/::1726616606
+::res://Sandbox game/shader_cache/SdfgiDebugProbesShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SdfgiDebugProbesShaderRD/41af92f24cfffd1d870ed50e96e7ae1bfd6c2cc11f728d520ef0a827972a1438/::1726616606
+::res://Sandbox game/shader_cache/SdfgiDebugShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SdfgiDebugShaderRD/372719c6eef32a8635d4db9b69f2f8b01b907642dbac0cc26f37ea2a76eeb95d/::1726616606
+::res://Sandbox game/shader_cache/SdfgiDirectLightShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SdfgiDirectLightShaderRD/803c48e266e0d9c1590d25424071a668b88abc76bcda6fdde74b8524f298683c/::1726616606
+::res://Sandbox game/shader_cache/SdfgiIntegrateShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SdfgiIntegrateShaderRD/4647045d5ae8023ab209178c191d003ce94a58384c2bf158dfd5d1b256a1feb2/::1726616606
+::res://Sandbox game/shader_cache/SdfgiPreprocessShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SdfgiPreprocessShaderRD/42b3acb8f8f580e0ad8624239eada43680eb33d7a90e0279cf34b99bad80ffc9/::1726616606
+::res://Sandbox game/shader_cache/ShadowFrustumShaderRD/::1726616606
+::res://Sandbox game/shader_cache/ShadowFrustumShaderRD/c9c1b6421f8f6625effc9ddfa4bb2c09cafda0942b62fb8e1414e90820e18fa0/::1726616606
+::res://Sandbox game/shader_cache/SkeletonShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SkeletonShaderRD/4964fd59acf4406110ae7bca4b716f23ae52cc19864e21a8a35aee53e141e17e/::1726616606
+::res://Sandbox game/shader_cache/SkyShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SkyShaderRD/4bc541bfde1c30032df77bb4c98974909ad0368d22557f44e6cf095b26c0490a/::1726616606
+::res://Sandbox game/shader_cache/SortShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SortShaderRD/0b1e36114ab5330dc340cc740b0b946ed2dbf43098119b8d29cfa0222da18b7a/::1726616606
+::res://Sandbox game/shader_cache/SpecularMergeShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SpecularMergeShaderRD/a119881bb41d0ec2f36a7f060866ec38b88afa6d0e484a431c65b35b5a2e820b/::1726616606
+::res://Sandbox game/shader_cache/SsaoBlurShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsaoBlurShaderRD/32baf23e3ccb90d5c6840258a705d953d950a779d125df3b5bb979bd1309f4d4/::1726616606
+::res://Sandbox game/shader_cache/SsaoImportanceMapShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsaoImportanceMapShaderRD/6d680b1500cda48a2de67225a98a208373d657c0f128c9e34a1528b50b3c2c5b/::1726616606
+::res://Sandbox game/shader_cache/SsaoInterleaveShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsaoInterleaveShaderRD/d3d5b300acaef6d08dcd3d033f393c424ad653c5ab554883703c29ee6eedf528/::1726616606
+::res://Sandbox game/shader_cache/SsaoShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsaoShaderRD/10348af53d51e568e9a1574f4be3c4bc66eb9b2b464c8e4f061d051e1a6c4de9/::1726616606
+::res://Sandbox game/shader_cache/SsEffectsDownsampleShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsEffectsDownsampleShaderRD/d85ba7758123b2364d96690db4594bb43feabce176805e46abc91aa54c5874d4/::1726616606
+::res://Sandbox game/shader_cache/SsilBlurShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsilBlurShaderRD/dc4c027d65e080b2b5b1af257e3733c6bc35899ce02c3f333249db264836bd41/::1726616606
+::res://Sandbox game/shader_cache/SsilImportanceMapShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsilImportanceMapShaderRD/abbec59f40ae844d9bbca6d058972ef757a0baf48cdf91ef5836a8960f11569e/::1726616606
+::res://Sandbox game/shader_cache/SsilInterleaveShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsilInterleaveShaderRD/76868dec9e116ecbddcf9a480d808d2509e42cf65d5f7182e4f4cad2e24c9c70/::1726616606
+::res://Sandbox game/shader_cache/SsilShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SsilShaderRD/20c3a95a7a0528ebb5844939feeb8fe446ac0dcde9d011e24c2fc54af67e6c6d/::1726616606
+::res://Sandbox game/shader_cache/SubsurfaceScatteringShaderRD/::1726616606
+::res://Sandbox game/shader_cache/SubsurfaceScatteringShaderRD/43df2517be4d76d26d345b88762bb6d272983e54f79d503331a085ec082a97da/::1726616606
+::res://Sandbox game/shader_cache/TaaResolveShaderRD/::1726616606
+::res://Sandbox game/shader_cache/TaaResolveShaderRD/66482a84ae3398a2cbd07e92185df239a902d24d388424e0dff9fe998af3c0b4/::1726616606
+::res://Sandbox game/shader_cache/TonemapShaderRD/::1726616606
+::res://Sandbox game/shader_cache/TonemapShaderRD/1c4748b3de350503048a1f9eca4f1dc2b308086460692ea0a81bababfd80542a/::1726616606
+::res://Sandbox game/shader_cache/VolumetricFogProcessShaderRD/::1726616606
+::res://Sandbox game/shader_cache/VolumetricFogProcessShaderRD/2c2d7b3b51e66f06069290afb842fc1ee9ee4f60f06a5168b0cee5bd380366bc/::1726616606
+::res://Sandbox game/shader_cache/VolumetricFogShaderRD/::1726616606
+::res://Sandbox game/shader_cache/VolumetricFogShaderRD/22de546a38a6b3caaa1d02360e0e62d85133e560e5667f2f3f5e34e3145679af/::1726616606
+::res://Sandbox game/shader_cache/VoxelGiDebugShaderRD/::1726616606
+::res://Sandbox game/shader_cache/VoxelGiDebugShaderRD/83ec08f78c119345f086a6cbcb0da5d67f664d19fd7ba3259c4948638b76fb8c/::1726616606
+::res://Sandbox game/shader_cache/VoxelGiShaderRD/::1726616606
+::res://Sandbox game/shader_cache/VoxelGiShaderRD/8bfb40cf41510d02f432927249e4d6d6708843a0953b4faf61a2f2e3786d4fd0/::1726616606
+::res://Sandbox game/shader_cache/VrsShaderRD/::1726616606
+::res://Sandbox game/shader_cache/VrsShaderRD/def705023965d273a669c1ac6acfd7494138bde25b3e3bde0969c3c7a32c3aae/::1726616606
+::res://Sandbox game/vulkan/::1726616606
+::res://scenes/::1726616606
+enemy.tscn::PackedScene::1103479560265136006::1726616606::0::1::::<><>::uid://dvepdxyugn4ux::::res://art/sprites/characters/slime.png<>res://scripts/enemy.gd
+player.tscn::PackedScene::398413370572847756::1726616606::0::1::::<><>::res://scripts/player.gd<>uid://dxmlqy5ji8rqd::::res://art/sprites/characters/player.png
+world.tscn::PackedScene::4883227801067092786::1726616606::0::1::::<><>::uid://4v0axi1abjsg::::res://art/sprites/tilesets/plains.png<>uid://23y4gx46kyrq::::res://art/sprites/tilesets/grass.png<>uid://xprvblt3mxbq::::res://art/sprites/objects/objects.png<>uid://pysfadcynx7c::::res://scenes/enemy.tscn<>uid://fw82smob68yq::::res://scenes/player.tscn
+::res://scripts/::1726616606
+enemy.gd::GDScript::-1::1726616606::0::1::::<>CharacterBody2D<>::
+global.gd::GDScript::-1::1726616606::0::1::::<>Node<>::
+player.gd::GDScript::-1::1726616606::0::1::::<>CharacterBody2D<>::
