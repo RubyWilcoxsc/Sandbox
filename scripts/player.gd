@@ -2,7 +2,7 @@ extends CharacterBody2D
 
 var enemy_inattack_range = false
 var enemy_attack_cooldown = true
-var health = 100
+var health = 160
 var player_alive = true
 
 var attack_ip = false
@@ -91,8 +91,7 @@ func play_anim(movement):
 				anim.play("back_idle")
 			
 			
-func player():
-	pass
+
 
 func _on_player_hitbox_body_entered(body: Node2D) -> void:
 	if body.has_method("enemy"):
@@ -116,7 +115,7 @@ func attack():
 	var dir = current_dir
 	
 	if Input.is_action_just_pressed("attack"):
-		global.player_current_attack = true
+		Global.player_current_attack = true
 		attack_ip = true
 		if dir == "right":
 			$AnimatedSprite2D.flip_h = false
@@ -129,8 +128,14 @@ func attack():
 		if dir == "down":
 			$AnimatedSprite2D.play ("front_attack")
 			$deal_attack_timer.start()
+		if dir == "up":
+			$AnimatedSprite2D.play ("back_attack")
+			$deal_attack_timer.start()
 
 func _on_deal_attack_timer_timeout() -> void:
 	$deal_attack_timer.stop()
-	global.player_current_attack = false
+	Global.player_current_attack = false
 	attack_ip = false
+
+func player():
+	pass
