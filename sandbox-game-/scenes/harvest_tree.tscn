@@ -1,0 +1,60 @@
+[gd_scene load_steps=8 format=3 uid="uid://dul2crocdpbgo"]
+
+[ext_resource type="Script" path="res://harvest_tree.gd" id="1_tw42j"]
+[ext_resource type="Texture2D" uid="uid://dvioec8cqktk8" path="res://Trees/Treess.png" id="2_p0k52"]
+[ext_resource type="Texture2D" uid="uid://c87q5440y2b4c" path="res://Trees/stump.png" id="2_yi4gk"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vu0d8"]
+atlas = ExtResource("2_yi4gk")
+region = Rect2(0, 0, 26, 15)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_hrqar"]
+atlas = ExtResource("2_p0k52")
+region = Rect2(56, 52, 28, 52)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_xsoxf"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vu0d8")
+}],
+"loop": true,
+"name": &"no trees",
+"speed": 0.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_hrqar")
+}],
+"loop": true,
+"name": &"trees",
+"speed": 0.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_p7nbw"]
+radius = 36.0
+height = 72.0
+
+[node name="harvest_tree" type="Node2D"]
+script = ExtResource("1_tw42j")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(1, 0.990566)
+sprite_frames = SubResource("SpriteFrames_xsoxf")
+animation = &"no trees"
+
+[node name="harvestable_area" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="harvestable_area"]
+position = Vector2(1, -2)
+shape = SubResource("CapsuleShape2D_p7nbw")
+
+[node name="growth_timer" type="Timer" parent="."]
+wait_time = 3.0
+one_shot = true
+
+[node name="Marker2D" type="Marker2D" parent="."]
+
+[connection signal="body_entered" from="harvestable_area" to="." method="_on_harvestable_area_body_entered"]
+[connection signal="body_exited" from="harvestable_area" to="." method="_on_harvestable_area_body_exited"]
+[connection signal="timeout" from="growth_timer" to="." method="_on_growth_timer_timeout"]
